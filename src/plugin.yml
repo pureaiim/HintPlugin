@@ -1,0 +1,8 @@
+name: Hint
+version: 1.0
+main: me.pureaiim.hint.Main
+
+commands:
+  hint:
+    usage: /<command>
+    description: Start or stop the hinting process!
